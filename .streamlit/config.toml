@@ -1,0 +1,10 @@
+[client]
+toolbarMode = "developer"
+showSidebarNavigation = false
+  
+[theme]
+BASE = "dark"
+primaryColor = "forestGreen"
+backgroundColor = "#1a1f2e"
+secondaryBackgroundColor = "#808780"
+textColor = "rgb(255, 255, 255)"
